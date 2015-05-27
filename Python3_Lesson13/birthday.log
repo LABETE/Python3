@@ -1,0 +1,7 @@
+DEBUG:root:birthday: 1957-11-01 00:00:00
+DEBUG:root:upcoming: 2015-11-01 00:00:00
+DEBUG:root:duration: 268 days, 12:21:57.872203
+ERROR:root:time data '15-04-1990' does not match format '%m-%d-%Y'
+DEBUG:root:birthday: 1990-04-15 00:00:00
+DEBUG:root:upcoming: 2015-04-15 00:00:00
+DEBUG:root:duration: 68 days, 12:21:10.864228

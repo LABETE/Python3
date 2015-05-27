@@ -1,0 +1,36 @@
+
+2015-01-28 12:25:29,212 root:INFO:forestry.py:forestry.py function:start_logging line:17 Starting up the forestry program
+2015-01-28 12:25:29,217 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,218 root:INFO:forestry.py:forestry.py function:__init__ line:46 Instantiated a Lumberjack
+2015-01-28 12:25:29,218 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,219 root:INFO:forestry.py:forestry.py function:cut_down_tree line:57 Lumberjack.tree cut down
+2015-01-28 12:25:29,220 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,220 root:INFO:forestry.py:forestry.py function:__init__ line:46 Instantiated a Lumberjack
+2015-01-28 12:25:29,221 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,222 root:INFO:forestry.py:forestry.py function:cut_down_tree line:57 Lumberjack.tree cut down
+2015-01-28 12:25:29,222 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,223 root:INFO:forestry.py:forestry.py function:__init__ line:46 Instantiated a Lumberjack
+2015-01-28 12:25:29,223 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,224 root:INFO:forestry.py:forestry.py function:cut_down_tree line:57 Lumberjack.tree cut down
+2015-01-28 12:25:29,224 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,225 root:INFO:forestry.py:forestry.py function:__init__ line:46 Instantiated a Lumberjack
+2015-01-28 12:25:29,225 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,226 root:INFO:forestry.py:forestry.py function:cut_down_tree line:57 Lumberjack.tree cut down
+2015-01-28 12:25:29,227 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,227 root:INFO:forestry.py:forestry.py function:__init__ line:46 Instantiated a Lumberjack
+2015-01-28 12:25:29,228 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,228 root:INFO:forestry.py:forestry.py function:cut_down_tree line:57 Lumberjack.tree cut down
+2015-01-28 12:25:29,229 root:ERROR:forestry.py:forestry.py function:__init__ line:27 Tree size must be one of: XXL,S,XL,M,L
+2015-01-28 12:25:29,230 root:INFO:forestry.py:forestry.py function:__init__ line:46 Instantiated a Lumberjack
+2015-01-28 12:25:29,231 root:ERROR:forestry.py:forestry.py function:cut_down_tree line:53 Cannot cut_down_tree(): Lumberjack has no tree!
+2015-01-28 12:25:29,232 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,232 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,233 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,234 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,234 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,235 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,236 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,236 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,237 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
+2015-01-28 12:25:29,238 root:INFO:forestry.py:forestry.py function:get_boards line:34 tree.get_boards method called
+2015-01-28 12:25:29,239 root:INFO:forestry.py:forestry.py function:__init__ line:30 Instantiated a tree
